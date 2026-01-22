@@ -1,0 +1,8 @@
+customer_segment,customer_count,avg_customer_value,segment_revenue,pct_of_revenue
+Need Attention,11062,430.26,4759536.51,29.73
+Lost,15813,242.19,3829795.65,23.92
+Promising,13887,251.73,3495724.13,21.84
+At Risk,21615,71.15,1537965.04,9.61
+Loyal Customers,17900,84.05,1504433.16,9.40
+Champions,15701,55.62,873235.80,5.45
+Big Spenders,117,69.93,8181.83,0.05

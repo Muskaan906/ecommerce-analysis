@@ -5,14 +5,13 @@
 **Tools Used:** PostgreSQL, Excel, Tableau Public
 
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau)](https://public.tableau.com/app/profile/muskaan.sandhu/viz/E-CommerceBusinessAnalysis-MuskaanSandhu/ExecutiveSummary)
+## TL;DR (For Hiring Managers)
 
-TL;DR (For Hiring Managers):
-• Analyzed 100K+ e-commerce transactions using SQL
-• Identified customer segments driving disproportionate revenue
-• Flagged operational delivery issues impacting satisfaction
-• Translated analysis into concrete retention and marketing actions
-• Built executive-facing dashboards in Tableau
----
+- Analyzed **100K+ e-commerce transactions** using SQL  
+- Identified **customer segments driving disproportionate revenue**  
+- Flagged **operational delivery issues** impacting customer satisfaction  
+- Translated analysis into **actionable retention and marketing strategies**  
+- Built **executive-facing dashboards** in Tableau  
 
 ## 📊 Project Overview
 
